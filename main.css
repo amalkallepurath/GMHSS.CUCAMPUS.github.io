@@ -1,0 +1,41 @@
+*{
+margin:0;
+padding:0;
+}
+.main ul{
+background-color:green;
+color:white;
+font-size:30;
+}
+.main ul {
+
+text-align:center;
+}
+.main ul li{
+display:inline-flex;
+width:200px;
+list-style:none;
+}
+.main ul li a{
+text-decoration:none;
+color:white;
+}
+.new,main ul li,:hover{
+background:#47B85D;
+}
+.course{
+margin:20px;
+padding:20px;
+}
+.coursemain{
+margin:20px;
+padding:20px;
+}
+.about{
+background-color:black;
+color:white;
+}
+.para{
+margin:20px;
+padding:20px;
+}
